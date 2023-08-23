@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![](https://github.com/vishvara-sharda/BeautyInsidePoster/blob/main/Beauty%20INSIDE.png?raw=true)
 <!---
 vishvara-sharda/vishvara-sharda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
